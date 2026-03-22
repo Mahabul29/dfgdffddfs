@@ -1,3 +1,4 @@
+
 class text(object):
     START = """{},
 
@@ -16,16 +17,13 @@ class text(object):
 
 𝘉𝘺 = @{}"""
 
-    # Fixed: Changed '==' to '=' 
-        ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ :</b> <a href='@AutoApprove_v2Bot'>ᴀᴘᴘʀᴏᴠᴇ ʙᴏᴛ</a>
+    ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ :</b> <a href='@AutoApprove_v2Bot'>ᴀᴘᴘʀᴏᴠᴇ ʙᴏᴛ</a>
 <b>‣ ʟɪʙʀᴀʀʏ :</b> <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 <b>‣ ᴅᴀᴛᴀʙᴀsᴇ :</b> <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
 <b>‣ ʟᴀɴɢᴜᴀɢᴇ :</b> <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a>
 <b>‣ ʙᴏᴛ sᴇʀᴠᴇʀ :</b> <a href='https://www.koyeb.com/'>ᴋᴏʏᴇʙ</a>
 <b>‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :</b> <a href='https://telegram.me/Mahabul201'>ᴍᴏᴏɴ</a>"""
 
-    
-    # Fixed: Added missing closing triple quotes at the end
     HELP = """{},
 
 ʀᴇᴀᴅ ᴛʜɪs ᴍᴇssᴀɢᴇ ᴄᴀʀᴇғᴜʟʟʏ sᴏ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍs ᴡʜɪʟᴇ ᴜsɪɴɢ ᴍᴇ.
